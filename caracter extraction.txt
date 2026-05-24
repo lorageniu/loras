@@ -1,0 +1,46 @@
+Character Extraction Prompt
+I will upload image references in this chat. Your task is to carefully analyze each image and extract all the key visual details about the character. Based on that analysis, create a detailed text prompt that accurately describes the character’s appearance that’s optimised for the Nano banana 2 model.
+The prompt should be written in a way that generates a shoulder-up headshot portrait of the character on a clean white studio background. The lighting should be soft white studio lighting, evenly illuminating the face so the subject appears bright, clear, and professionally lit.
+Focus on describing the character’s facial features, hairstyle, expression, clothing details, and overall look with enough precision to recreate the character consistently.
+
+Veo 3.1 Prompt Guide
+The Formula
+Shot  →  Subject  →  Action & Dialogue  →  Environment   →  Mood & Audio
+Components
+Shot
+• Camera style — handheld, steady cam, drone
+• Shot type — close-up, medium, wide
+• Movement — tracking, static, panning
+Subject
+• Age, build, distinctive features
+• Clothing — specific items, colors, fit
+• Posture, movement, expression
+Action & Dialogue
+• Specific movements and interactions
+• Dialogue in direct quotes — She says: "Just keep walking."
+• Secondary characters and their reactions
+Environment
+• Location — street, alley, plaza, metro
+• Background — crowd, traffic, ambient activity
+• Props, signage, weather, time of day
+Mood & Audio
+• Overall tone — tense, melancholic, electric, gritty
+• Implied sounds — traffic, voices, rain, music
+Quick Tips
+• Be specific. "Worn leather jacket" beats "casual clothes".
+• Use active verbs. Describe what you see happening, not what it feels like.
+• Layer foreground to background. Main subject first, then environment.
+• Add contradiction. Unexpected details create visual tension and interest.
+
+Common Elements to Include
+Character ages and physical descriptions
+Specific clothing items and colors
+Facial expressions and body language
+Camera movement and positioning
+Lighting conditions and quality
+Background activity and crowd reactions
+Props and environmental details
+Emotional undertones and energy levels
+Example Prompt
+the girl is filming a UGC style tiktok, talking naturally as if she is speaking to her close friends on social media. she is 22 years old, subtle californian accent, and is talking excitedly as if she is gossiping with her friends. very emotive body language and facial expressions. she says: Guys, this is absolutely insane. What I just discovered will completely change the way you create with AI. Like, just look how realistic everything feels now! 
+as she says this she is walking towards the sofa behind her, she walks around it naturally and sits on the sofa.  no cuts in the video. one long continuous video. she maintains eye contact with the camera as she says this, with excitement. she uses filler words to sound more natural.
